@@ -20,6 +20,11 @@ import java.util.Random;
 // You do not have to detect a negative number or number too big being entered, you can treat these situations also like Leroy choosing to stop eating cookies.
 
 
+
+//THINGS I HAVE TO DO:
+// All your code must be developed and written independently by yourself. Any code or ideas you receive from outside sources (people, websites, or AI), must be acknowledged. This can be done with a comment in the code, explaining where the code or idea came from, including the person’s name, website URL, or name of the AI.
+//
+
 public class LeroyAndLeora {
 
     public static void main(String[] args) {
