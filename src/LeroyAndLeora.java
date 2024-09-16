@@ -1,6 +1,25 @@
 import java.util.Scanner;
 import java.util.Random;
 
+
+
+
+//THINGS IVE DONE:
+// Leroy the Lynx begins with 24 cookies, labeled with the numbers 2 through 25, inclusive.
+//Each time one of the lynxes eats a cookie, they get the number of points that the cookie is worth
+// The game begins with all 24 cookies available, except for 4, which are chosen randomly and removed, to make the game different each time it is played.
+// Leroy can then choose any cookie to eat (and he then earns that many points).
+//  Leora then gets to eat all the cookies that have numbers that are factors of Leroy’s cookie.
+// Leroy is not allowed to eat any cookie that would result in Leora getting zero points
+// Leroy also cannot eat any cookie that has already been eaten.
+//After Leroy decides to stop eating cookies (or cannot eat any more due to the rule about factors), the game ends. At this point, Leora gets to eat all the remaining cookies on the board! The winner is whoever has more points at the end.
+// While your program is running, it should clearly show the board (which cookies are remaining), the current scores, and prompt the user for which cookie to eat.
+// At the end of the game, announce the winner.
+// Leroy is not allowed to eat a cookie that has already been eaten. However, if the user does this, you may treat this as Leroy choosing to stop eating cookies
+// Leroy is not allowed to eat a cookie that has no factors left on the board. If this happens, you can treat it as Leroy choosing to not eat any more cookies.
+// You do not have to detect a negative number or number too big being entered, you can treat these situations also like Leroy choosing to stop eating cookies.
+
+
 public class LeroyAndLeora {
 
     public static void main(String[] args) {
