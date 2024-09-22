@@ -1,4 +1,3 @@
-
 Leroy the Lynx begins with 24 cookies, labeled with the numbers 2 through 25, inclusive. Like in the previous game, he wants to eat as 
 many cookies as possible, but now he is playing against the other Rhodes mascot, Leora the Lynx. Each time one of the lynxes eats a cookie,
 they get the number of points that the cookie is worth (so unlike the first game, where all the cookies were “equal,” in this game, 
